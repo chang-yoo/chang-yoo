@@ -1,4 +1,4 @@
-## Hi! My name is Changhyun Yoo 👋
+# Hi! My name is Changhyun Yoo 👋
 
 <!--
 **chang-yoo/chang-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### MAIN SKILLS:
-  - HTML5
+### 🔥Stats
+![Chang's github stats](https://github-readme-stats.vercel.app/api?username=chang-yoo)
+
+### 💬About Me
+  Hi! I am Changhyun Yoo, a full stack web developer who strives for the sense of accomplishment that comes from coding. 
+  
+
+### 🚀MAIN SKILLS:
+  - HTML
   - CSS3
   - JavaScript
-  - React.js
-  - Node.js
   - PostgreSQL
 
-### REACH ME AT:
+### 🚀Frameworks & Libraries
+  - React.js
+  - Node.js
+  - Express.js
+
+### 🚀Tools
+  - npm
+  - VS Code
+  - Figma
+  - git
+
+
+### 📫Let's Connet:
 Email: chyoo0428@gmail.com
 <br/>
 Phone: (562) 665-9228
