@@ -21,3 +21,8 @@ Here are some ideas to get you started:
   - React.js
   - Node.js
   - PostgreSQL
+
+### REACH ME AT:
+Email: chyoo0428@gmail.com
+Phone: (562) 665-9228
+LinkedIn: (https://www.linkedin.com/in/changhyun-yoo0/)
