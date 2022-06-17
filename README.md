@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 ![Chang's github stats](https://github-readme-stats.vercel.app/api?username=chang-yoo)
 
 ### 💬About Me
-  Hi! I am Changhyun Yoo, a full stack web developer who strives for the sense of accomplishment that comes from coding. 
+  Hi! I am Changhyun Yoo, a full stack web developer who strives for the sense of accomplishment that comes from coding.
   
-
 ### 🚀MAIN SKILLS:
   - HTML
   - CSS3
