@@ -1,4 +1,4 @@
-# Hi! My name is Changhyun Yoo 👋
+# Hi!👋
 
 <!--
 **chang-yoo/chang-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
