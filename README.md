@@ -25,18 +25,19 @@ Here are some ideas to get you started:
   - HTML
   - CSS3
   - JavaScript
-  - PostgreSQL
 
 ### 🚀Frameworks & Libraries
   - React.js
   - Node.js
   - Express.js
+  - PostgreSQL
 
 ### 🚀Tools
   - npm
   - VS Code
   - Figma
   - git
+  - WebPack
 
 
 ### 📫Let's Connet:
