@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ### REACH ME AT:
 Email: chyoo0428@gmail.com
 Phone: (562) 665-9228
-LinkedIn: (https://www.linkedin.com/in/changhyun-yoo0/)
+LinkedIn: [Changhyun Yoo](https://www.linkedin.com/in/changhyun-yoo0/)
