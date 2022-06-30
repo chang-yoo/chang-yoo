@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   - Express.js
   - PostgreSQL
   - Bootstrap
+  - Babel
 
 ### 🚀Tools
   - npm
