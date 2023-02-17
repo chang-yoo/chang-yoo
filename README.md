@@ -21,24 +21,25 @@ Here are some ideas to get you started:
   Hi! I am Changhyun Yoo, a full stack web developer who strives for the sense of accomplishment that comes from coding.
   
 ### 🚀MAIN SKILLS:
-  - HTML
-  - CSS3
+  - Java
   - JavaScript
-
+  - Oracle 
+  
 ### 🚀Frameworks & Libraries
+  - Java Spring
   - React.js
   - Node.js
-  - Express.js
+  - Maven
+  - MyBatis
   - PostgreSQL
   - Bootstrap
-  - Babel
 
 ### 🚀Tools
-  - npm
+  - Oracle DB
   - VS Code
-  - Figma
-  - git
-  - WebPack
+  - Eclipse
+  - Git
+  - Nexacro
 
 
 ### 📫Let's Connet:
