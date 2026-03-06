@@ -25,16 +25,17 @@ Here are some ideas to get you started:
   - JavaScript
   - SQL (Oracle & Postgre)
   
-### 🚀 & Systems
+### 🚀 Frontend Systems
   #Frontend
-    - React.js
-    - Vue.js
-  #Backend
-    - RESTful APIs
-    - Microservices
-    - Apache Kafka
-    - Debezium
-    - Redis
+  - React.js
+  - Vue.js
+  - 
+### 🚀 Backend Systems
+  - RESTful APIs
+  - Microservices
+  - Apache Kafka
+  - Debezium
+  - Redis
 
 ### 🚀Cloud & DevOps
   - AWS
