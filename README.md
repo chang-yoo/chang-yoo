@@ -20,27 +20,27 @@ Here are some ideas to get you started:
 ### 💬About Me
   Hi! I am Changhyun Yoo, a full stack web developer who strives for the sense of accomplishment that comes from coding.
   
-### 🚀MAIN SKILLS:
+### 🚀Programming Languages:
   - Java
   - JavaScript
-  - Oracle 
+  - SQL (Oracle & Postgre)
   
-### 🚀Frameworks & Libraries
-  - Java Spring
-  - React.js
-  - Node.js
-  - Maven
-  - MyBatis
-  - PostgreSQL
-  - Bootstrap
+### 🚀 & Systems
+  #Frontend
+    - React.js
+    - Vue.js
+  #Backend
+    - RESTful APIs
+    - Microservices
+    - Apache Kafka
+    - Debezium
+    - Redis
 
-### 🚀Tools
-  - Oracle DB
-  - VS Code
-  - Eclipse
+### 🚀Cloud & DevOps
+  - AWS
+  - Docker
+  - Jenkins
   - Git
-  - Nexacro
-
 
 ### 📫Let's Connet:
 Email: chyoo0428@gmail.com
